@@ -1,0 +1,150 @@
+@font-face {
+    font-family: "Monocraft";
+    src: local("C:/Users/simon/Desktop/Fonts/Monocraft/Monocraft.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000;
+    font-family: "Monocraft";
+}
+
+#title {
+    white-space: pre;
+    margin-top: -70px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.green_text {
+    color: #51E633;
+    line-height: 30px;
+}
+
+.title_text {
+    font-size: 32px;
+}
+
+.zero {
+    color: #51E633;
+}
+
+.one {
+    color: #51E633;
+}
+
+ul li {
+    display: list-item;
+}
+
+#zero_1 {
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+#one_1 {
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+#zero_2 {
+    margin-right: 200px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#one_2 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+    margin-top: -10px;
+}
+
+#zero_3 {
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+#one_3 {
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+#zero_4 {
+    margin-right: 200px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#one_4 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+    margin-top: -10px;
+}
+
+
+#zero_5 {
+    margin-right: 180px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#one_5 {
+    margin-top: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#zero_6 {
+    margin-right: 200px;
+    margin-top: 150px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#one_6 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+    margin-top: 150px;
+}
+
+#zero_7 {
+    margin-right: 300px;
+    margin-top: -100px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+#one_7 {
+    margin-top: 25px;
+    margin-right: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+#zero_8 {
+    margin-right: 290px;
+    display: flex;
+    justify-content: center;
+}
+
+#one_8 {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+footer {
+    margin-top: 10px;
+    color: #51E633;
+}

@@ -3,6 +3,8 @@
     src: local("C:/Users/simon/Desktop/Fonts/Monocraft/Monocraft.ttf");
 }
 
+/* On réinitialise le positionnement en ajoutant la police d'écriture Monocraft et un fond noir */
+
 * {
     margin: 0;
     padding: 0;
@@ -11,22 +13,32 @@
     font-family: "Monocraft";
 }
 
+/* On met le titre au milieu de la page */
+
 #title {
     white-space: pre;
     margin-top: -70px;
     margin-bottom: 50px;
     display: flex;
     justify-content: center;
+    margin-right: 50px;
 }
+
+/* On met le texte en vert pour matcher avec le theme hacker */
 
 .green_text {
     color: #51E633;
-    line-height: 30px;
+    line-height: 50px;
+    margin-left: 25px;
 }
+
+/* On ajuste la taille du texte */
 
 .title_text {
     font-size: 32px;
 }
+
+/* on met les zéro et les uns en vert */
 
 .zero {
     color: #51E633;
@@ -142,6 +154,11 @@ ul li {
     justify-content: center;
     margin-right: 100px;
     margin-top: 10px;
+}
+
+#hacking_image {
+    display: flex;
+    justify-content: center;
 }
 
 footer {

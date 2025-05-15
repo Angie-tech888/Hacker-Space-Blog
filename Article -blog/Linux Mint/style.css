@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(0, 0, 0); 
+}
+
+nav{
+    background-color: #80ff1f;
+    height: 21px;
+    margin: auto;
+}
+
+
+button{
+    width: 40px;
+    height: 8%;
+    float: right;
+}
+
+h1{
+    color: #80ff1f;
+  
+}
+
+#actualité{
+    color: #80ff1f;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#articles{
+      color: #80ff1f;
+}
+
+
+h3{
+    color: #80ff1f;
+}
+
+p{
+    color: #80ff1f;
+}
+h4{
+    color: #80ff1f;
+}
+li{
+    color: #80ff1f;
+}
+
+#conteneur-LinuxMint{
+    width: 600px; 
+    text-align: right; 
+     float: right; 
+}
+#conteneur-PrimTux{
+    p{
+        text-align: left;
+    }
+    h3{
+        text-align: left;
+    
+    }
+    img{
+        align-items: self-end;
+    }
+}

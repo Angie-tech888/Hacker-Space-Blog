@@ -52,6 +52,8 @@ ul li {
     display: list-item;
 }
 
+/* On positionne les 0 et les 1  */
+
 #zero_1 {
     margin-left: 50px;
     margin-top: 25px;
@@ -156,10 +158,16 @@ ul li {
     margin-top: 10px;
 }
 
+/* On positionne les 0 et les 1  */
+
+/* On ajoute une image au centre */
+
 #hacking_image {
     display: flex;
     justify-content: center;
 }
+
+/* On met le footer en vert avec un margin top de 10 pixels */
 
 footer {
     margin-top: 10px;
